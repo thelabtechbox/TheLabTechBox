@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The Lab Techbox - Επισκευές Ηλεκτρονικών & Συστήματα Ασφαλείας</title>
     <meta name="description" content="Επαγγελματικές επισκευές ηλεκτρονικών, κινητών τηλεφώνων, υπολογιστών και εγκατάσταση συστημάτων ασφαλείας στη Λαμία." />
-    <base href="/" />
+    <base href="/TheLabTechBox/" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,10 +23,27 @@
         </div>
     </div>
 
+    <div id="blazor-error-ui" class="fixed bottom-0 w-full bg-red-500 text-white p-4 z-50 transform translate-y-full transition-transform">
+        <div class="container mx-auto flex items-center justify-between">
+            <span>Παρουσιάστηκε ένα σφάλμα. Παρακαλώ ανανεώστε τη σελίδα.</span>
+            <div>
+                <a href="." class="reload bg-white text-red-500 px-4 py-2 rounded mr-2 hover:bg-gray-100 transition-colors">Ανανέωση</a>
+                <button class="dismiss text-white hover:text-gray-200 text-xl">&times;</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="_framework/blazor.webassembly.js"></script>
     <script>
-        // Add any site-specific JavaScript here
+        // Enable better error reporting for GitHub Pages
+        window.addEventListener('error', function(e) {
+            console.error('Global error:', e.error);
+        });
+        
+        window.addEventListener('unhandledrejection', function(e) {
+            console.error('Unhandled promise rejection:', e.reason);
+        });
     </script>
 </body>
 
 </html>
-
