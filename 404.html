@@ -23,27 +23,13 @@
         </div>
     </div>
 
-    <div id="blazor-error-ui" class="fixed bottom-0 w-full bg-red-500 text-white p-4 z-50 transform translate-y-full transition-transform">
-        <div class="container mx-auto flex items-center justify-between">
-            <span>Παρουσιάστηκε ένα σφάλμα. Παρακαλώ ανανεώστε τη σελίδα.</span>
-            <div>
-                <a href="." class="reload bg-white text-red-500 px-4 py-2 rounded mr-2 hover:bg-gray-100 transition-colors">Ανανέωση</a>
-                <button class="dismiss text-white hover:text-gray-200 text-xl">&times;</button>
-            </div>
-        </div>
+    <div class="container mx-auto text-center py-16">
+        <h1 class="text-4xl font-bold text-gray-800 mb-4">404 - Page Not Found</h1>
+        <p class="text-xl text-gray-600 mb-8">Sorry, the page you're looking for doesn't exist.</p>
+        <a href="/" class="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors">
+            Return to Home
+        </a>
     </div>
-    
-    <script src="_framework/blazor.webassembly.js"></script>
-    <script>
-        // Enable better error reporting for GitHub Pages
-        window.addEventListener('error', function(e) {
-            console.error('Global error:', e.error);
-        });
-        
-        window.addEventListener('unhandledrejection', function(e) {
-            console.error('Unhandled promise rejection:', e.reason);
-        });
-    </script>
 </body>
 
 </html>
