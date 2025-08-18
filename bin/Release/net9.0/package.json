@@ -1,0 +1,14 @@
+{
+  "name": "thelab-techbox",
+  "version": "1.0.0",
+  "description": "The Lab Techbox - Electronics Repair & Services Website",
+  "scripts": {
+    "build-css": "tailwindcss -i ./tailwind.css -o ./wwwroot/tailwind.css --watch",
+    "build-css-prod": "tailwindcss -i ./tailwind.css -o ./wwwroot/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.6",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31"
+  }
+}

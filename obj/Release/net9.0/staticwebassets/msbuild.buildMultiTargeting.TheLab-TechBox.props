@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TheLab-TechBox.props" />
+</Project>

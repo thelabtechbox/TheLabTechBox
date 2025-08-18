@@ -1,0 +1,310 @@
+/* Placeholder image styles for development */
+/* This file ensures the layout works even without actual images */
+
+/* Header background images - fill the background */
+div[style*="header-left.jpg"] {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8) !important;
+    background-size: cover !important;
+    background-position: center !important;
+    position: relative;
+}
+
+div[style*="header-left.jpg"]::before {
+    content: "Header Left";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+div[style*="header-right.jpg"] {
+    background: linear-gradient(135deg, #10b981, #059669) !important;
+    background-size: cover !important;
+    background-position: center !important;
+    position: relative;
+}
+
+div[style*="header-right.jpg"]::before {
+    content: "Header Right";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Create colored placeholders for images that would be added */
+img[src*="logo.png"] {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+/* Gallery images - individual styling */
+img[src*="gallery-1.jpg"] {
+    background: linear-gradient(135deg, #3b82f6, #1e40af);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery-2.jpg"] {
+    background: linear-gradient(135deg, #10b981, #047857);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery-3.jpg"] {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery-4.jpg"] {
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery-5.jpg"] {
+    background: linear-gradient(135deg, #8b5cf6, #7c3aed);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery-6.jpg"] {
+    background: linear-gradient(135deg, #06b6d4, #0891b2);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+/* Service card images */
+/* Service card images - new ones */
+img[src*="Security Cameras_edited.jpg"] {
+    background: linear-gradient(135deg, #1e40af, #1d4ed8);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="Electronic Circuit_edited.jpg"] {
+    background: linear-gradient(135deg, #047857, #059669);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="mobile-repair-about_edited.jpg"] {
+    background: linear-gradient(135deg, #7c3aed, #6d28d9);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="computer-repair.jpg"] {
+    background: linear-gradient(135deg, #dc2626, #b91c1c);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="tv-installation.jpg"] {
+    background: linear-gradient(135deg, #4338ca, #3730a3);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="01_Kategorie_edited.jpg"] {
+    background: linear-gradient(135deg, #d97706, #b45309);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="THE_LAB_VER-removebg-preview.png"] {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+img[src*="contact-image.jpg"] {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="security-systems.jpg"] {
+    background: linear-gradient(135deg, #1e40af, #1d4ed8);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="mobile-repair-about.jpg"] {
+    background: linear-gradient(135deg, #047857, #059669);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="modern-processor-cpu-motherboard-computer-concept-technology-hardware-repair-neon-light-16.jpg"] {
+    background: linear-gradient(135deg, #7c3aed, #6d28d9);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="lcd04.jpg"] {
+    background: linear-gradient(135deg, #dc2626, #b91c1c);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="01_Kategorie.png"] {
+    background: linear-gradient(135deg, #d97706, #b45309);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="gallery"] {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="services-bg.jpg"] {
+    background: linear-gradient(135deg, #1f2937, #374151);
+}
+
+img[src*="security"], img[src*="electronics"], img[src*="mobile"], 
+img[src*="computer"], img[src*="tv"], img[src*="commercial"] {
+    background: linear-gradient(135deg, #64748b, #475569);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img[src*="team"] {
+    background: linear-gradient(135deg, #ec4899, #be185d);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+/* Add pseudo-content to show placeholder text */
+img[src*="logo.png"]::before {
+    content: "LOGO";
+    font-size: 16px;
+}
+
+img[src*="THE_LAB_VER-removebg-preview.png"]::before { 
+    content: "THE LAB LOGO";
+    font-size: 16px;
+}
+
+img[src*="gallery-1.jpg"]::before { content: "Security Systems"; }
+img[src*="gallery-2.jpg"]::before { content: "Mobile Repair"; }
+img[src*="gallery-3.jpg"]::before { content: "Computer Repair"; }
+img[src*="gallery-4.jpg"]::before { content: "TV Repair"; }
+img[src*="gallery-5.jpg"]::before { content: "Electronics"; }
+img[src*="gallery-6.jpg"]::before { content: "Commercial"; }
+
+img[src*="Security Cameras_edited.jpg"]::before { content: "Security Cameras"; }
+img[src*="Electronic Circuit_edited.jpg"]::before { content: "Electronics"; }
+img[src*="mobile-repair-about_edited.jpg"]::before { content: "Mobile Repair"; }
+img[src*="computer-repair.jpg"]::before { content: "Computer Repair"; }
+img[src*="tv-installation.jpg"]::before { content: "TV Installation"; }
+img[src*="01_Kategorie_edited.jpg"]::before { content: "Commercial"; }
+img[src*="contact-image.jpg"]::before { content: "Contact Us"; }
+
+img[src*="security-systems.jpg"]::before { content: "Security"; }
+img[src*="mobile-repair-about.jpg"]::before { content: "Mobile"; }
+img[src*="modern-processor-cpu-motherboard-computer-concept-technology-hardware-repair-neon-light-16.jpg"]::before { content: "Computer"; }
+img[src*="lcd04.jpg"]::before { content: "TV/Audio"; }
+img[src*="01_Kategorie.png"]::before { content: "Commercial"; }
+
+img[src*="gallery1"]::before { content: "Gallery 1"; }
+img[src*="gallery2"]::before { content: "Gallery 2"; }
+img[src*="gallery3"]::before { content: "Gallery 3"; }
+img[src*="gallery4"]::before { content: "Gallery 4"; }
+img[src*="gallery5"]::before { content: "Gallery 5"; }
+img[src*="gallery6"]::before { content: "Gallery 6"; }
+
+img[src*="security"]::before { content: "Security"; }
+img[src*="electronics"]::before { content: "Electronics"; }
+img[src*="mobile"]::before { content: "Mobile"; }
+img[src*="computer"]::before { content: "Computer"; }
+img[src*="tv"]::before { content: "TV"; }
+img[src*="commercial"]::before { content: "Commercial"; }
+
+img[src*="team1"]::before { content: "Ντίνος"; }
+img[src*="team2"]::before { content: "Ευτυχία"; }
+img[src*="team3"]::before { content: "Arber"; }

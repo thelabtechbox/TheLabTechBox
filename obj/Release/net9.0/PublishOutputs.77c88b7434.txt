@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\TheLab\TheLab-TechBox\bin\Release\net9.0\publish\package-lock.json
+C:\Users\user\Desktop\TheLab\TheLab-TechBox\bin\Release\net9.0\publish\web.config

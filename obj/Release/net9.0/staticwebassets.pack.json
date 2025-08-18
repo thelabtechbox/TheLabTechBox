@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\css\\placeholders.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\placeholders.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\Header.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\Header.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\Header2.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\Header2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImageSlide1.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImageSlide1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImageSlide2.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImageSlide2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImageSlide3.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImageSlide3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImageSlide4.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImageSlide4.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImageSlide5.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImageSlide5.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\ImagrSlide6avif.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\ImagrSlide6avif.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\Home\\OurServicesBackground.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\Home\\OurServicesBackground.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image1.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image2.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image3.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image4.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image4.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image5.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image5.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\OurServices\\Image6.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\OurServices\\Image6.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\WhoWeAre\\Logo.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\WhoWeAre\\Logo.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\WhoWeAre\\person1.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\WhoWeAre\\person1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\WhoWeAre\\person2.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\WhoWeAre\\person2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\images\\WhoWeAre\\person3.avif",
+      "PackagePath": "staticwebassets\\Assets\\images\\WhoWeAre\\person3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\js\\modal.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Assets\\js\\navigation.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Header.avif",
+      "PackagePath": "staticwebassets\\Header.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Header2.avif",
+      "PackagePath": "staticwebassets\\Header2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image1.avif",
+      "PackagePath": "staticwebassets\\Image1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image2.avif",
+      "PackagePath": "staticwebassets\\Image2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image3.avif",
+      "PackagePath": "staticwebassets\\Image3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image4.avif",
+      "PackagePath": "staticwebassets\\Image4.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image5.avif",
+      "PackagePath": "staticwebassets\\Image5.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\Image6.avif",
+      "PackagePath": "staticwebassets\\Image6.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImageSlide1.avif",
+      "PackagePath": "staticwebassets\\ImageSlide1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImageSlide2.avif",
+      "PackagePath": "staticwebassets\\ImageSlide2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImageSlide3.avif",
+      "PackagePath": "staticwebassets\\ImageSlide3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImageSlide4.avif",
+      "PackagePath": "staticwebassets\\ImageSlide4.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImageSlide5.avif",
+      "PackagePath": "staticwebassets\\ImageSlide5.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ImagrSlide6avif.avif",
+      "PackagePath": "staticwebassets\\ImagrSlide6avif.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\OurServicesBackground.avif",
+      "PackagePath": "staticwebassets\\OurServicesBackground.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\OurTeamBackground.avif",
+      "PackagePath": "staticwebassets\\OurTeamBackground.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ServiceCardImage1.avif",
+      "PackagePath": "staticwebassets\\ServiceCardImage1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ServiceCardImage2.avif",
+      "PackagePath": "staticwebassets\\ServiceCardImage2.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ServiceCardImage3.avif",
+      "PackagePath": "staticwebassets\\ServiceCardImage3.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ServiceCardImage4.avif",
+      "PackagePath": "staticwebassets\\ServiceCardImage4.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\ServiceCardImage5.avif",
+      "PackagePath": "staticwebassets\\ServiceCardImage5.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\contactImage.avif",
+      "PackagePath": "staticwebassets\\contactImage.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\js\\gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\tailwind.css",
+      "PackagePath": "staticwebassets\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\TheLab\\TheLab-TechBox\\wwwroot\\test-images.html",
+      "PackagePath": "staticwebassets\\test-images.html"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.TheLab-TechBox.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.TheLab-TechBox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.TheLab-TechBox.props",
+      "PackagePath": "build\\TheLab-TechBox.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TheLab-TechBox.props",
+      "PackagePath": "buildMultiTargeting\\TheLab-TechBox.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.TheLab-TechBox.props",
+      "PackagePath": "buildTransitive\\TheLab-TechBox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+/* Gallery specific styles */
+.gallery-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.gallery-image {
+    transition: opacity 0.5s ease-in-out;
+    object-fit: cover;
+}
+
+/* Custom Tailwind utilities for better responsive design */
+.w-3\/10 {
+    width: 30%;
+}
+
+.w-7\/10 {
+    width: 70%;
+}
+
+/* Smooth hover effects for service cards */
+.service-card {
+    transition: all 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Enhanced button styles */
+.btn-primary {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #1d4ed8, #1e40af);
+    transform: translateY(-2px);
+}
